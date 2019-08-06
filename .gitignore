@@ -2,3 +2,5 @@ builds/
 /funcs/__pycache__
 /funcs/grouped/__pycache__
 /funcs/separated/__pycache__
+
+*.wav
